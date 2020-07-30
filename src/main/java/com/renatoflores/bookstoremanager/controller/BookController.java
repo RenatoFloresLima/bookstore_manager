@@ -2,8 +2,6 @@ package com.renatoflores.bookstoremanager.controller;
 
 import com.renatoflores.bookstoremanager.dto.BookDTO;
 import com.renatoflores.bookstoremanager.dto.MessageResponseDTO;
-import com.renatoflores.bookstoremanager.entity.Book;
-import com.renatoflores.bookstoremanager.repository.BookRepository;
 import com.renatoflores.bookstoremanager.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
